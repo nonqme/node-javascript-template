@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "main": "index.js",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint",
+    "format": "prettier --write ."
+  },
   "author": "",
   "license": "ISC",
   "description": "",
