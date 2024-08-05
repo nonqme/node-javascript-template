@@ -49,5 +49,5 @@ This template provides a basic setup for a Node.js project. It includes essentia
 - **Testing**: Run tests.
 
   ```sh
-  npm test
+  npm run test
   ```
